@@ -12,7 +12,7 @@ Welcome to my UX design space! I'm a self-taught designer focused on creating hu
 - [CV/Resume Builder app](https://www.behance.net/gallery/171521111/Case-Study-for-CVResume-Builder-App)
 
 ## 📄 PDF Case Studies
-📄 [Download mobile app redesign](./files/Redesign)
+📄 [Download mobile app redesign](./files/Redesign.jpg)
 
 ## ✨ About Me
 I’m a UX designer with a passion for accessibility in digital products, and simple, effective solutions.
